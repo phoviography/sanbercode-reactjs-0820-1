@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Angga Prasetya W
+2. Email: agpw.id@gmail.com
+3. Sistem Operasi yang digunakan: Fedora
+4. Akun Gitlab: https://github.com/phoviography/
+5. Akun Telegram: @BDJCGK
