@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td,
+th {
+  text-align: left;
+  padding: 2px;
+}
+
+.backToIndex {
+  text-align: center;
+}

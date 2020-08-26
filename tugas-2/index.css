@@ -1,0 +1,43 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-image: url("assets/pattern.jpg");
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: whitesmoke;
+  padding: 5px;
+}
+
+.navleft {
+  display: flex;
+  align-items: center;
+}
+
+.navright {
+  display: flex;
+  align-items: center;
+}
+
+.navright ul {
+  list-style-type: none;
+}
+
+.navright ul a {
+  text-decoration: none;
+  color: #333;
+  padding-right: 15px;
+}
+
+.navright ul li {
+  display: inline;
+}
+
+section {
+  margin: 0 20px;
+  background: white;
+}
