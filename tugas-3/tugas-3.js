@@ -36,7 +36,7 @@ var kataKelima = kalimat.substring(25, 31);
 
 console.log('Kata Pertama: ' + kataPertama); //Kata Pertama: wah
 console.log('Kata Kedua: ' + kataKedua); //Kata Kedua: javascript
-console.log('Kata Ketiga: ' + kataKetiga); // Kata Kedua: javascript
+console.log('Kata Ketiga: ' + kataKetiga); // Kata Kedua: itu
 console.log('Kata Keempat: ' + kataKeempat); //Kata Keempat: keren
 console.log('Kata Kelima: ' + kataKelima); //Kata Kelima: sekali
 
